@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Game</string>
+    <string name="Buttons">\???</string>
+    <string name="Start">Start</string>
+    <string name="life">❤️</string>
+    <string name="money">💰</string>
+    <string name="lifeInitial">x 3</string>
+    <string name="moneyInitial">$ 0</string>
+    <string name="endgame">Fim de jogo!</string>
+    <string name="loser">Você Perdeu!!!\n🙁</string>
+    <string name="winner">Você Ganhou!!!\n😀</string>
+    <string name="share">Compartilhar</string>
+    <string name="send_to">Eu consegui escapar do calabouço!</string>
+</resources>
